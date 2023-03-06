@@ -21,4 +21,4 @@ Replace <ip address> with the IP address you want to scan and <port range> with 
 
 
 
-l
+
